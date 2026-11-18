@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Finish Gen AI proposal",
+    "due": "2026-11-25",
+    "notes": "",
+    "priority": 1,
+    "done": true,
+    "id": "8b0fe5e4"
+  },
+  {
+    "title": "Buy groceries",
+    "due": null,
+    "notes": "",
+    "priority": 2,
+    "done": false,
+    "id": "a424dbc4"
+  }
+]
